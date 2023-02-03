@@ -12,5 +12,12 @@ Console.Write("Введите 3 числа: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int m = Convert.ToInt32(Console.ReadLine());
 int o = Convert.ToInt32(Console.ReadLine());
-if (m < n) n = (i);
-if (m > n) Console.Write (o);
+if         (n > m)
+{    i = (n); }
+    else 
+    {i = (m);}
+if (o > i) {i = (o);
+Console.Write("максимальное значение: ");
+Console.Write (i);}
+    else {Console.Write("максимальное значение: ");
+Console.Write (i);}
