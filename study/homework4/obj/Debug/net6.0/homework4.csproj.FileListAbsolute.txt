@@ -1,0 +1,15 @@
+F:\Csharp\study\homework4\obj\Debug\net6.0\homework4.csproj.AssemblyReference.cache
+F:\Csharp\study\homework4\obj\Debug\net6.0\homework4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\study\homework4\obj\Debug\net6.0\homework4.AssemblyInfoInputs.cache
+F:\Csharp\study\homework4\obj\Debug\net6.0\homework4.AssemblyInfo.cs
+F:\Csharp\study\homework4\obj\Debug\net6.0\homework4.csproj.CoreCompileInputs.cache
+F:\Csharp\study\homework4\bin\Debug\net6.0\homework4.exe
+F:\Csharp\study\homework4\bin\Debug\net6.0\homework4.deps.json
+F:\Csharp\study\homework4\bin\Debug\net6.0\homework4.runtimeconfig.json
+F:\Csharp\study\homework4\bin\Debug\net6.0\homework4.dll
+F:\Csharp\study\homework4\bin\Debug\net6.0\homework4.pdb
+F:\Csharp\study\homework4\obj\Debug\net6.0\homework4.dll
+F:\Csharp\study\homework4\obj\Debug\net6.0\refint\homework4.dll
+F:\Csharp\study\homework4\obj\Debug\net6.0\homework4.pdb
+F:\Csharp\study\homework4\obj\Debug\net6.0\homework4.genruntimeconfig.cache
+F:\Csharp\study\homework4\obj\Debug\net6.0\ref\homework4.dll
