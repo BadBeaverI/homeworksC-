@@ -1,21 +1,16 @@
-﻿//. Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые числа в промежутке от -N до N.
-//   4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4" 
-//   2 -> " -2, -1, 0, 1, 2"
+﻿//.Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-
-
+// 2, 3, 7 -> 7
+// 44 5 78 -> 78
+// 22 3 9 -> 22
 
 
 Console.Clear();
 
-Console.Write("Введите число: ");
-int n = Convert.ToInt32(Console.ReadLine()), count = (-1) * n;
-for (int i = (-1) * n; i <= n; i++)
-    Console.Write($"{i} ");
-Console.WriteLine();
-while (count <= n)
-{
-    Console.Write($"{count} ");
-    count++; // count = count + 1;
-}
-    
+int i = 0;
+Console.Write("Введите 3 числа: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int m = Convert.ToInt32(Console.ReadLine());
+int o = Convert.ToInt32(Console.ReadLine());
+if (m < n) n = (i);
+if (m > n) Console.Write (o);
